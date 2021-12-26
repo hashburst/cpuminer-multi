@@ -1,10 +1,12 @@
-CPUMiner-Multi
-==============
+CPUMiner-Multi for Raspberry Pi 4 and P.a.a.S. Hashburst
+========================================================
 
+Platform as a Service Hashburst for Mining Pool and Cloud Mining using a Decentralized or Distributed Farm Pattern.
+
+This is a multi-threaded CPU miner for Raspbian OS,
+fork of [pooler](//github.com/pooler)'s cpuminer and fork of
 [![Build Status](https://travis-ci.org/tpruvot/cpuminer-multi.svg)](https://travis-ci.org/tpruvot/cpuminer-multi)
-
-This is a multi-threaded CPU miner,
-fork of [pooler](//github.com/pooler)'s cpuminer (see AUTHORS for list of contributors).
+(see AUTHORS for list of contributors).
 
 #### Table of contents
 
